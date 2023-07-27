@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/Table/bin/Debug/net7.0/Table
+/home/prouser/projects/prouser/test-engish/exercises/Table/bin/Debug/net7.0/Table.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/Table/bin/Debug/net7.0/Table.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/Table/bin/Debug/net7.0/Table.dll
+/home/prouser/projects/prouser/test-engish/exercises/Table/bin/Debug/net7.0/Table.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.dll
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/refint/Table.dll
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/Table.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/Table/obj/Debug/net7.0/ref/Table.dll

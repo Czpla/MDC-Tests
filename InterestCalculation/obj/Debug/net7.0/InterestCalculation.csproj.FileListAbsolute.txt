@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/bin/Debug/net7.0/InterestCalculation
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/bin/Debug/net7.0/InterestCalculation.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/bin/Debug/net7.0/InterestCalculation.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/bin/Debug/net7.0/InterestCalculation.dll
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/bin/Debug/net7.0/InterestCalculation.pdb
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.dll
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/refint/InterestCalculation.dll
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.pdb
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/InterestCalculation.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/InterestCalculation/obj/Debug/net7.0/ref/InterestCalculation.dll

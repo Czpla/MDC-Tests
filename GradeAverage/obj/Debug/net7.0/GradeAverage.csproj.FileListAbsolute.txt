@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/bin/Debug/net7.0/GradeAverage
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/bin/Debug/net7.0/GradeAverage.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/bin/Debug/net7.0/GradeAverage.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/bin/Debug/net7.0/GradeAverage.dll
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/bin/Debug/net7.0/GradeAverage.pdb
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.dll
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/refint/GradeAverage.dll
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.pdb
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/GradeAverage.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/GradeAverage/obj/Debug/net7.0/ref/GradeAverage.dll

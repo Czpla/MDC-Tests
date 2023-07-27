@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/bin/Debug/net7.0/VowelCounter
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/bin/Debug/net7.0/VowelCounter.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/bin/Debug/net7.0/VowelCounter.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/bin/Debug/net7.0/VowelCounter.dll
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/bin/Debug/net7.0/VowelCounter.pdb
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.dll
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/refint/VowelCounter.dll
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.pdb
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/VowelCounter.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/VowelCounter/obj/Debug/net7.0/ref/VowelCounter.dll

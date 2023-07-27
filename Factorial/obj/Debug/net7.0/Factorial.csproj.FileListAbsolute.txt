@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/bin/Debug/net7.0/Factorial
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/bin/Debug/net7.0/Factorial.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/bin/Debug/net7.0/Factorial.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/bin/Debug/net7.0/Factorial.dll
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/bin/Debug/net7.0/Factorial.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.dll
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/refint/Factorial.dll
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/Factorial.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/Factorial/obj/Debug/net7.0/ref/Factorial.dll

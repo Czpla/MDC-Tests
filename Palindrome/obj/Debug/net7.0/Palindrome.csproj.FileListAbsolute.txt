@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/bin/Debug/net7.0/Palindrome
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/bin/Debug/net7.0/Palindrome.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/bin/Debug/net7.0/Palindrome.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/bin/Debug/net7.0/Palindrome.dll
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/bin/Debug/net7.0/Palindrome.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.dll
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/refint/Palindrome.dll
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.pdb
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/Palindrome.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/Palindrome/obj/Debug/net7.0/ref/Palindrome.dll

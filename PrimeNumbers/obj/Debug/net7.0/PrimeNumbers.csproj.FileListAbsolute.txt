@@ -1,0 +1,15 @@
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.AssemblyReference.cache
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfoInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfo.cs
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.deps.json
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.runtimeconfig.json
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.dll
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.pdb
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.dll
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/refint/PrimeNumbers.dll
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.pdb
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.genruntimeconfig.cache
+/home/prouser/projects/prouser/test-engish/exercises/PrimeNumbers/obj/Debug/net7.0/ref/PrimeNumbers.dll
